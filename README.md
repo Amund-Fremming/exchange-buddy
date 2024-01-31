@@ -1,5 +1,8 @@
 # Exchange buddy
 
+### Live Demo
+<a href="https://www.youtube.com/watch?v=DHf8ubIZEZo&ab_channel=AmundFremming">youtube demo</a>
+
 ### Kort om appen
 
 - Appen er basert på finn.no og hybel.no og har som formål å gjøre det enklere for studenter som skal på utveksling å leie ut sitt som for ett semester om gangen.
@@ -20,8 +23,6 @@
 - Plassere interfaces i en egen fil.
 
 <hr>
-
-Prosjektgruppe 10
 
 ## Info
 
@@ -46,11 +47,3 @@ Other technologies used:
 - Bonobo Git Server
 - Trello.com
 - Figma
-
-## How to run the project
-
-### Required software
-
-Download Node.js here: [Node.js](https://nodejs.org/en)
-Download GitBahs here: [GitBash](https://gitforwindows.org/)
-Download Eclipse here: [Eclipse](https://www.eclipse.org/downloads/)
